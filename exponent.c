@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Function to calculate exponent
+
 int exponent(int n1, int n2) {
     if (n2 == 0) {
         return 1;
