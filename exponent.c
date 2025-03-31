@@ -16,7 +16,7 @@ int main() {
     printf("Enter the power: ");
     scanf("%d", &n2);
     
-    // Call the exponent function and store the result
+    
     int result = exponent(n1, n2);
     
     // Print the result
